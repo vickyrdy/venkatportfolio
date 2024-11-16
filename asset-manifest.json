@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/venkatportfolio.git/static/css/main.8e4c96e0.css",
+    "main.js": "/venkatportfolio.git/static/js/main.5ec1ae59.js",
+    "index.html": "/venkatportfolio.git/index.html",
+    "main.8e4c96e0.css.map": "/venkatportfolio.git/static/css/main.8e4c96e0.css.map",
+    "main.5ec1ae59.js.map": "/venkatportfolio.git/static/js/main.5ec1ae59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e4c96e0.css",
+    "static/js/main.5ec1ae59.js"
+  ]
+}
